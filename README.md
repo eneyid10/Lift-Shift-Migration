@@ -1,6 +1,3 @@
-# Lift-And-Shift-Migration
-AWS to Azure Lift &amp; Shift Migration
-
 # ☁️ Cloud-to-Cloud Migration Lab: AWS EC2 → Azure via Azure Migrate
 
 ![Lab Status](https://img.shields.io/badge/Status-Complete-brightgreen)
