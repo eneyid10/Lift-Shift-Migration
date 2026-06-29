@@ -45,7 +45,7 @@ Cloud migrations are one of the highest-value workloads in cloud engineering. Or
   │  │  • Port 3389 (RDP)      │  │    │   │  │  │  └────────────────────┘  │  │  │
   │  └─────────────────────────┘  │    │   │  │  │                          │  │  │
   │                               │    │   │  │  │  ┌────────────────────┐  │  │  │
-  │  IAM Service Account          │    └───┼──┼──┼──►│ Replication Appl. │  │  │  │
+  │  IAM Service Account          │    └───┼──┼──┼─►│ Replication Appl.  │  │  │  │
   │  svc-azure-migrate-[name]     │        │  │  │  │ vm-mig-repl-[name] │  │  │  │
   │  Permissions:                 │        │  │  │  │ Standard_A4_v2     │  │  │  │
   │  • ec2:Describe*              │        │  │  │  └────────────────────┘  │  │  │
